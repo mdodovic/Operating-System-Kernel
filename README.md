@@ -1,4 +1,4 @@
 # OS
-Multithread operational system
+Preemptive multithread operational system
 
-This operational system supports Thread, Semaphore, Event and message passing between threads!
+This operational system supports Thread, Semaphore, Event and message passing between threads (signal concept)!
