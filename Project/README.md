@@ -1,4 +1,4 @@
-- Combine .cpp and .h files with files in folder /OS/javni_test.
+- Combine .cpp and .h files with files in folder /OS/javni_test and with files in folder /OS/scheduler
 - Build it.
 - Run it with apropriate arguments 
   program.exe N M K
